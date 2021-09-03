@@ -1,0 +1,47 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+.backing {
+  background-color: #DFDFDF;
+  border-radius: 8px;
+  width: 320px;
+  height: 180px;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 15px;
+}
+
+html[data-theme="dark"] .backing {
+  background-color: #495057;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.featureSvg {
+  position: absolute;
+  right: 0;
+  height: 200px;
+  width: 300px;
+  transform: translate(20px, 10px);
+}
+
+html[data-theme="light"] h3 {
+  color: #292929;
+  margin-bottom: 5px;
+}
+
+html[data-theme="dark"] h3 {
+  color: #fff;
+  margin-bottom: 5px;
+}
+
+html[data-theme="light"] p {
+  color: #6B6B6B;
+}
+
+html[data-theme="dark"] p {
+  color: #eaeaea;
+}

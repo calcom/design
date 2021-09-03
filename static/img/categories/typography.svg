@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1440 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M1466.7,157.713C1466.7,144.565 1456.03,133.89 1442.88,133.89L414.908,133.89C401.76,133.89 391.085,144.565 391.085,157.713L391.085,905.837C391.085,918.985 401.76,929.66 414.908,929.66L1442.88,929.66C1456.03,929.66 1466.7,918.985 1466.7,905.837L1466.7,157.713Z" style="fill:white;"/>
+    <g transform="matrix(1,0,0,1,-0.499183,0)">
+        <circle cx="419.837" cy="167.232" r="9.923" style="fill:rgb(238,111,100);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,27.8427,0)">
+        <circle cx="419.837" cy="167.232" r="9.923" style="fill:rgb(247,193,84);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,57.2887,0)">
+        <circle cx="419.837" cy="167.232" r="9.923" style="fill:rgb(102,199,89);"/>
+    </g>
+    <g transform="matrix(6.8594,0,0,1,-2291.52,0)">
+        <rect x="391.085" y="196.123" width="152.916" height="4.199" style="fill:rgb(238,239,238);"/>
+    </g>
+    <rect x="391.085" y="200.322" width="1048.91" height="699.678" style="fill:rgb(243,244,246);"/>
+    <g transform="matrix(1,0,0,1,-17.4029,40.5853)">
+        <text x="532.983px" y="384.63px" style="font-family:'Lexend-Bold', 'Lexend';font-weight:700;font-size:144px;">A<tspan x="629.895px " y="384.63px ">a</tspan> B<tspan x="873.543px " y="384.63px ">b</tspan> Cc</text>
+        <text x="532.983px" y="672.63px" style="font-family:'Lexend-Bold', 'Lexend';font-weight:700;font-size:144px;">L<tspan x="617.943px 710.823px 774.327px " y="672.63px 672.63px 672.63px ">ore</tspan>m ipsum</text>
+    </g>
+</svg>
