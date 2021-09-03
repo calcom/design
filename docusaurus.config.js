@@ -36,7 +36,7 @@ module.exports = {
           position: 'left',
           label: 'Design Documentation',
         },
-        {href: 'https://api.docs.calendso.com', label: 'API Documentation', position: 'left'},
+        {href: 'https://developer.calendso.com/api', label: 'API Documentation', position: 'left'},
         {
           href: 'https://github.com/calendso/calendso',
           label: 'GitHub',
