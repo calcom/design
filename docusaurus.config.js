@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Calendso Design Documentation',
   tagline: 'Dinosaurs are cool',
-  url: 'https://design.calendso.com',
+  url: 'https://design.cal.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -28,15 +28,15 @@ module.exports = {
         srcDark: 'img/logo-white.svg'
       },
       items: [
-        {href: 'https://docs.calendso.com', label: 'Product Documentation', position: 'left'},
-        {href: 'https://developer.calendso.com', label: 'Developer Documentation', position: 'left'},
+        {href: 'https://docs.cal.com', label: 'Product Documentation', position: 'left'},
+        {href: 'https://developer.cal.com', label: 'Developer Documentation', position: 'left'},
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
           label: 'Design Documentation',
         },
-        {href: 'https://developer.calendso.com/api', label: 'API Documentation', position: 'left'},
+        {href: 'https://developer.cal.com/api', label: 'API Documentation', position: 'left'},
         {
           href: 'https://github.com/calendso/calendso',
           label: 'GitHub',
@@ -52,15 +52,15 @@ module.exports = {
           items: [
             {
               label: 'Website',
-              href: 'https://calendso.com',
+              href: 'https://cal.com',
             },
             {
               label: 'Slack',
-              href: 'https://calendso.com/slack',
+              href: 'https://cal.com/slack',
             },
             {
-              label: 'Careers',
-              href: 'https://calendso.com/jobs',
+              label: 'Jobs',
+              href: 'https://cal.com/jobs',
             },
           ],
         },
@@ -95,7 +95,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Meet Technologies, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Cal.com, Inc.`,
     },
     prism: {
       theme: lightCodeTheme,
