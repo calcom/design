@@ -28,15 +28,15 @@ module.exports = {
         srcDark: 'img/logo-white.svg'
       },
       items: [
-        {href: 'https://docs.cal.com', label: 'Product Documentation', position: 'left'},
-        {href: 'https://developer.cal.com', label: 'Developer Documentation', position: 'left'},
+        {href: 'https://docs.cal.com', label: 'Product Docs', position: 'left'},
+        {href: 'https://developer.cal.com', label: 'Developer', position: 'left'},
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Design Documentation',
+          label: 'Design',
         },
-        {href: 'https://developer.cal.com/api', label: 'API Documentation', position: 'left'},
+        {href: 'https://developer.cal.com/api', label: 'API', position: 'left'},
         {
           href: 'https://github.com/calendso/calendso',
           label: 'GitHub',
