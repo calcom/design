@@ -2,10 +2,6 @@
 
 We use our own **Cal Sans** typography, made by [Mark Davis](https://twitter.com/MarkFonts) for our logo and every headline.
 
-
-<img src="https://cal.com/blog/calendso-rebrands-to-cal-com/cal-sans-specimen.png" />
-
-
 ## Logos
 
 Download our Cal.com logo below:
@@ -26,6 +22,12 @@ Download our Cal.com logo below:
     Download
 </a>
 </div>
+
+
+
+<img src="https://cal.com/blog/calendso-rebrands-to-cal-com/cal-sans-specimen.png" />
+
+
 
 ## Brand colors
 
