@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Cal.com Design Documentation',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Open Scheduling',
   url: 'https://design.cal.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -36,7 +36,6 @@ module.exports = {
           position: 'left',
           label: 'Design',
         },
-        {href: 'https://developer.cal.com/api', label: 'API', position: 'left'},
         {
           href: 'https://github.com/calendso/calendso',
           label: 'GitHub',
