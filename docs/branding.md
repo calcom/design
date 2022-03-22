@@ -23,11 +23,11 @@ Download our Cal.com logo below:
 </a>
 </div>
 
+## Press Kit
 
-
-<img src="https://cal.com/blog/calendso-rebrands-to-cal-com/cal-sans-specimen.png" />
-
-
+<a download href="/press-kit.zip" title="Cal.com Press Kit">
+    Download
+</a> our press kit including screenshots, logos and a photo of the founders.
 
 ## Brand colors
 
