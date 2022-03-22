@@ -25,7 +25,7 @@ Download our Cal.com logo below:
 
 ## Press Kit
 
-<a download href="/press-kit.zip" title="Cal.com Press Kit">
+<a download href="https://cal.com/press-kit.zip" title="Cal.com Press Kit">
     Download
 </a> our press kit including screenshots, logos and a photo of the founders.
 
